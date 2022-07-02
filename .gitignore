@@ -1,0 +1,13 @@
+# IDE settings
+.vscode
+.vs
+.DS_Store
+
+# Dependency directories
+node_modules
+
+# Build output
+dist
+
+# Coverage reports
+coverage
