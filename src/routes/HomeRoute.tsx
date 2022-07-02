@@ -11,6 +11,8 @@ export const HomeRoute: FC = () => {
       <Typography variant="h2" component="h1" textAlign="center">
         Here are the Pokemons!
       </Typography>
+      <PokemonLimitChoice chooseLimit={setPokemonLimit} />
+      <PokemonList limit={pokemonLimit} />
     </Stack>
   );
 };
