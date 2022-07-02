@@ -31,3 +31,12 @@ npm run test
 ```
 
 Runs unit tests for the project. Output with coverage report will be available in the console.
+
+## **TO DO:**
+
+- Create details page for specific Pokemon.
+- Create search option through the Pokémon list using the name and abilities.
+- Create sort option through the results by name, height and weight.
+- Preserve sorting and searching data after page refresh.
+- Improve unit tests
+- Improve handling errors
